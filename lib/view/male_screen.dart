@@ -56,7 +56,7 @@ class MaleScreen extends StatelessWidget {
                       Text(
                         'Gender: $gender',
                         style: const TextStyle(
-                          color: Colors.black,
+                          color: Color.fromARGB(255, 0, 0, 0),
                           fontWeight: FontWeight.bold,
                         ),
                       ),
